@@ -1,0 +1,97 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #EBF4F6;
+  color: #071952;
+}
+
+.navbar {
+  background-color: #071952;
+}
+
+.navbar-brand,
+.nav-link {
+  color: #EBF4F6 !important;
+}
+
+.banner img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.word-title {
+  margin-bottom: 20px;
+}
+
+.word-title h2 {
+  font-size: 2rem;
+  margin-right: 10px;
+}
+
+.word-title i {
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: #37B7C3;
+}
+
+#wordDetails {
+  background-color: #EBF4F6;
+  border: 1px solid #37B7C3;
+}
+
+#wordDetails h3 {
+  margin-top: 20px;
+  font-size: 1.25rem;
+  color: #088395;
+}
+
+#wordDetails p {
+  margin-bottom: 10px;
+}
+
+.input-group .form-control {
+  border: 1px solid #37B7C3;
+}
+
+.input-group .btn {
+  background-color: #37B7C3;
+  color: #EBF4F6;
+}
+
+.input-group .btn:hover {
+  background-color: #088395;
+  color: #EBF4F6;
+}
+
+.list-group-item {
+  background-color: #EBF4F6;
+  border: 1px solid #37B7C3;
+}
+
+.list-group-item .btn {
+  background-color: #37B7C3;
+  color: #EBF4F6;
+}
+
+.list-group-item .btn:hover {
+  background-color: #088395;
+  color: #EBF4F6;
+}
+
+.footer {
+  background-color: #071952;
+  color: #EBF4F6;
+  padding: 10px 0;
+}
+
+.footer a {
+  color: #37B7C3;
+}
+
+.footer a:hover {
+  color: #088395;
+}
+
+.container {
+  padding-bottom: 80px; 
+}
